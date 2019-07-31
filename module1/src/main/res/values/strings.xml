@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tawny</string>
+
+    <string name="search">Search</string>
+    <string name="profile">Home</string>
+    <string name="explore">Explore</string>
+    <string name="news">News</string>
+
+</resources>
